@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^2.1.3"
+  },
+  "name": "keeper_app",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohoang2005/Keeper_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vohoang2005/Keeper_App/issues"
+  },
+  "homepage": "https://github.com/vohoang2005/Keeper_App#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
+
